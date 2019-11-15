@@ -1,0 +1,4 @@
+https://archive.ics.uci.edu/ml/machine-learning-databases/00396/
+
+Direct Link: 
+https://s3.amazonaws.com/dspython.dezyre.com/notebook_files/02-06-18-12-47-40/Sales_Transactions_Dataset_Weekly.csv
