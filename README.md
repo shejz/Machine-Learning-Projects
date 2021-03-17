@@ -211,6 +211,24 @@ In this data science project, we will develop a machine learning algorithm that 
 
 ## [Titanic EDA](https://github.com/shejz/Machine-Learning-Projects/tree/master/Titanic%20Survival%20Prediction)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Titanic%20Survival%20Prediction/EDA.ipynb)
 
+## [Solving Multiple Classification use cases Using H2O](https://github.com/shejz/Machine-Learning-Projects/tree/master/Solving%20Multiple%20Classification%20use%20cases%20Using%20H2O)
+In this project, we are going to talk about H2O and functionality in terms of building Machine Learning models.
+
+**Description**:
+
+H2O.ai is focused on bringing AI to businesses through software.
+
+H2O includes many common Machine Learning algorithms, such as generalized linear modeling (linear regression, logistic regression, etc.), Naive Bayes, principal components analysis, k-means clustering, and word2vec. H2O implements best-in-class algorithms at scale, such as distributed random forest, gradient boosting, and deep learning. H2O also includes a Stacked Ensembles method, which finds the optimal combination of a collection of prediction algorithms using a process known as stacking.
+
+
+- Data cleaning using H2O
+- Model Training using H2O
+- Model scalability using H2O in Hadoop environment
+- Driverless AI using H2O
+
+
+
+
 
 
 
