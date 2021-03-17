@@ -119,7 +119,7 @@ There are various methods to perform time series forecasting. Traditionally peop
 - Knowing advantages of Prophet
 - Using Bayesian Method of forecasting
 
-## [Predict Big Mart Sale](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20BigMart%20Sales)
+## [Predict Big Mart Sale](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20BigMart%20Sales)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20BigMart%20Sales/Predict%20Big%20Mart%20Sales.ipynb)
 The aim of this project is to build a predictive model, and use historical data to predict sales for each particular product in different stores.
 
 Given sales data for 1559 products across 10 stores of the Big Mart chain in various cities. I will try to understand the properties of products and stores which play a key role in increasing sales.
@@ -138,6 +138,37 @@ Customer churn refers to a decision made by the customer about ending the busine
 - What are the top factors
 - How to retain customers
 - Apply multiple classification models
+
+## [Predict Credit Default | Give Me Some Credit Kaggle](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit/Credit_Score_Solution.ipynb)
+In this data science project, you will predict borrowers chance of defaulting on credit loans by building a credit score prediction model.
+
+**Description**:
+
+Banks often depend on credit score prediction models to approve or deny a loan request. A good prediction model is necessary for a bank so that they can provide maximum credit without exceeding the risk threshold. This data science project uses credit score dataset which has fairly large volume of data (250K). The predictive models will be build following various approaches - random forests, graident boosting and logistic regression. At the end of the project you will build a predictive model that will automatically score each applicant with a credit score which is human readable and easy to interpret.
+
+## [Predict Macro Economic Trends using Kaggle Financial Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Macro%20Economic%20Trends)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Macro%20Economic%20Trends/Predict%20Macro%20Economic%20Trends.ipynb)
+In this machine learning project, you will uncover the predictive value in an uncertain world by using various artificial intelligence, machine learning, advanced regression and feature transformation techniques.
+
+**Description**:
+
+Two Sigma is a technology company dedicated to finding value in the world’s data. Since its founding in 2001, Two Sigma has built an innovative platform that combines extraordinary computing power, vast amounts of information, and advanced data science to produce breakthroughs in investment management, insurance, and related fields. Economic opportunity depends on the ability to deliver singularly accurate forecasts in a world of uncertainty.
+
+By accurately predicting financial movements, you will learn about scientifically-driven approaches to unlocking significant predictive capability.
+
+Two Sigma is excited to find predictive value and gain a better understanding of the skills offered by the global data science crowd.
+
+- Application of linear regression
+- Application of non-linear regression
+- Application of LASSO and elastic net regression
+- Application of XGBoost model
+- Interpretation of models
+
+
+
+
+
+
+
 
 
 
