@@ -87,6 +87,45 @@ Instacart’s data science team plays a big part in providing this delightful sh
 
 In this data science project, we are going to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user's next order.
 
+## [Music Recommendation System Project using Python and R](https://github.com/shejz/Machine-Learning-Projects/tree/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R/Perform%20EDA%20and%20build%20Music%20Recommendation%20Engine.ipynb)
+Work with KKBOX's Music Recommendation System dataset to build the best music recommendation engine.
+
+**Description**:
+
+The 11th ACM International Conference on Web Search and Data Mining (WSDM 2018) is challenging you to build a better music recommendation system using a donated dataset from KKBOX. WSDM (pronounced "wisdom") is one of the the premier conferences on web inspired research involving search and data mining. They're committed to publishing original, high quality papers and presentations, with an emphasis on practical but principled novel models. They currently use a collaborative filtering based algorithm with matrix factorization and word embedding in their recommendation system but believe new machine learning techniques could lead to better results.
+
+In this machine learning project, you will be asked to predict the chances of a user listening to a song repetitively after the first observable listening event within a time window was triggered. If there are recurring listening event(s) triggered within a month after the user's very first observable listening event, its target is marked 1, and 0 otherwise in the training set. The same rule applies to the testing set.
+
+KKBOX provides a music dataset that consists of information of the first observable listening event for each unique user-song pair within a specific time duration. Metadata of each unique user and song pair is also provided. The use of public data to increase the level of accuracy of your prediction is encouraged.
+
+The train and the test data are selected from users listening history in a given time period. Note that this time period is chosen to be before the WSDM-KKBox Churn Prediction time period. The train and test sets are split based on time, and the split of public/private is based on unique user/song pairs.
+
+- Working with Music Data with several category
+- EDA using several Visualization techniques
+- Building Automated Recommendation Engine
+- Solve this use case using Python and R
+- Finding Parameter Tuning for better Algorithm
+
+## [Perform Time series modelling using Facebook Prophet](https://github.com/shejz/Machine-Learning-Projects/tree/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet/Benchmarking%20ARIMA%20vs%20Prophet%20vs%20Keras.ipynb) 
+In this project, we are going to talk about Time Series Forecasting to predict the electricity requirement for a particular house using Prophet.
+
+**Description**:
+
+There are various methods to perform time series forecasting. Traditionally people have used AR, MA or ARIMA based models to perform forecasting. Prophet is an open source forecasting tool built by Facebook. It can be used for time series modeling and forecasting trends in the future. The advantage of using Prophet over traditional libraries is that one does not need to know the technicalities of time series, domain knowledge is not really required to do time series forecasting. In this Hackerday we are going to use Prophet vs other methods to do the benchmarking.
+
+- Time series forecasting using ARIMA
+- Time series forecasting using Prophet
+- Implementing Prophet
+- Knowing advantages of Prophet
+- Using Bayesian Method of forecasting
+
+
+
+
+
+
+
+
 
 
 
