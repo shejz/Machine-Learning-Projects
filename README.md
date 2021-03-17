@@ -119,6 +119,31 @@ There are various methods to perform time series forecasting. Traditionally peop
 - Knowing advantages of Prophet
 - Using Bayesian Method of forecasting
 
+## [Predict Big Mart Sale](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20BigMart%20Sales)
+The aim of this project is to build a predictive model, and use historical data to predict sales for each particular product in different stores.
+
+Given sales data for 1559 products across 10 stores of the Big Mart chain in various cities. I will try to understand the properties of products and stores which play a key role in increasing sales.
+
+The train and test data, can be found at the Analytics Vidya’s [Big Mart Sales Prediction Challenge](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+
+## [Predict Churn for a Telecom company using Logistic Regression](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression.ipynb)
+Predict the customer churn of telecom sector and find out the key drivers that lead to churn. Learn how the logistic regression model using R can be used to identify the customer churn in telecom dataset.
+
+**Description**:
+
+Customer churn refers to a decision made by the customer about ending the business relationship. It is also referred to the loss of clients or customers. Customer loyalty and customer churn always add up to 100%. If a firm has a 60% loyalty rate, then their loss or churn rate of customers is 40%. As per 80/20 customer profitability rule, 20% of customers are generating 80% of revenue. So, it is very important to predict the users likely to churn from the business relationship and the factors affecting the customer decisions. Here we are going to show how logistic regression model using R can be used to identify the customer churn in the telecom dataset.
+
+- Understand the customer behavior
+- Understand reasons for churn
+- What are the top factors
+- How to retain customers
+- Apply multiple classification models
+
+
+
+
+
+
 
 
 
