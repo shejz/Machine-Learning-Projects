@@ -146,6 +146,16 @@ In this data science project, you will predict borrowers chance of defaulting on
 
 Banks often depend on credit score prediction models to approve or deny a loan request. A good prediction model is necessary for a bank so that they can provide maximum credit without exceeding the risk threshold. This data science project uses credit score dataset which has fairly large volume of data (250K). The predictive models will be build following various approaches - random forests, graident boosting and logistic regression. At the end of the project you will build a predictive model that will automatically score each applicant with a credit score which is human readable and easy to interpret.
 
+## [Predict Employee Computer Access Needs in Python](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Employee%20Computer%20Access%20Needs)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Employee%20Computer%20Access%20Needs/Solution_File_in_Python.ipynb)
+Given his or her job role, predict employee access needs using amazon employee database.
+
+**Description**:
+
+When an employee at any company starts work, they first need to obtain the computer access necessary to fulfill their role. This access may allow an employee to read/manipulate resources through various applications or web portals. It is assumed that employees fulfilling the functions of a given role will access the same or similar resources. It is often the case that employees figure out the access they need as they encounter roadblocks during their daily work (e.g. not able to log into a reporting portal). A knowledgeable supervisor then takes time to manually grant the needed access in order to overcome access obstacles. As employees move throughout a company, this access discovery/recovery cycle wastes a nontrivial amount of time and money.
+
+There is a considerable amount of data regarding an employee’s role within an organization and the resources to which they have access. Given the data related to current employees and their provisioned access, models can be built that automatically determine access privileges as employees enter and leave roles within a company. In this data science project, we will build an auto-access model that minimizes the human involvement required to grant or revoke employee access.
+
+
 ## [Predict Macro Economic Trends using Kaggle Financial Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Macro%20Economic%20Trends)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Macro%20Economic%20Trends/Predict%20Macro%20Economic%20Trends.ipynb)
 In this machine learning project, you will uncover the predictive value in an uncertain world by using various artificial intelligence, machine learning, advanced regression and feature transformation techniques.
 
@@ -162,6 +172,45 @@ Two Sigma is excited to find predictive value and gain a better understanding of
 - Application of LASSO and elastic net regression
 - Application of XGBoost model
 - Interpretation of models
+
+## [Prediction of Flower Species](https://github.com/shejz/Machine-Learning-Projects/tree/master/Prediction%20of%20Flower%20Species)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Prediction%20of%20Flower%20Species/Prediction%20of%20Flower%20Species.ipynb)
+The Iris dataset is a classic dataset from the 1930s; it is one of the first modern examples of statistical classification.
+
+The dataset is a collection of morphological measurements of several Iris flowers. These measurements will enable us to distinguish multiple species of the flowers. Today, species are identified by their DNA fingerprints, but in the 1930s, DNA's role in genetics had not yet been discovered.
+
+## [Predictive Models in IoT - Energy Prediction Use Case](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case.ipynb) 
+In this machine learning and IoT project, we are going to test out the experimental data using various predictive models and train the models and break the energy usage.
+
+- Multiple linear regression,
+- Support vector machine with radial kernel,
+- Random forest and Gradient boosting machines (GBM).
+- Use of statistical models with repeated cross validation and evaluated in a testing set
+
+**Description**:
+
+This IoT project presents and discusses data-driven predictive models for the energy use of appliances. Data used include measurements of temperature and humidity sensors from a wireless network, whether from a nearby airport station and recorded energy use of lighting fixtures. The machine learning project discusses data filtering to remove non-predictive parameters and feature ranking. The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru) and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non-predictive attributes (parameters). 
+
+## [Zillow's Home Value Prediction (Zestimate)](https://github.com/shejz/Machine-Learning-Projects/tree/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20(Zestimate))[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20%28Zestimate%29/Solutions_file.ipynb) 
+Build a machine learning algorithm to predict the future sale prices of homes.
+
+- Problem statement analysis
+- Exploratory Data Analysis
+- Input Data Visualization
+- Interpretation from Visualization
+
+**Description**:
+
+Zillow is asking you to predict the log-error between their Zestimate and the actual sale price, given all the features of a home. The log error is defined as:
+and it is recorded in the transactions file train.csv. In this project, you are going to predict the log error for the months in Fall 2017.
+
+"Zestimates" are estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on each property. And, by continually improving the median margin of error (from 14% at the onset to 5% today), Zillow has since become established as one of the largest, most trusted marketplaces for real estate information in the U.S. and a leading example of impactful machine learning.
+
+In this data science project, we will develop a machine learning algorithm that makes predictions about the future sale prices of homes. We will also build a model to improve the Zestimate residual error. And finally, we'll build a home valuation algorithm from the ground up, using external data sources.
+
+## [Regression on Boston Housing Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Regression%20on%20Boston%20Housing%20Dataset)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Regression%20on%20Boston%20Housing%20Dataset/Regression%20on%20Boston%20Housing%20Dataset.ipynb)
+
+## [Titanic EDA](https://github.com/shejz/Machine-Learning-Projects/tree/master/Titanic%20Survival%20Prediction)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Titanic%20Survival%20Prediction/EDA.ipynb)
+
 
 
 
