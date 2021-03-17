@@ -15,8 +15,7 @@ When you've been devastated by a serious car accident, your focus is on the thin
 - Implementation of the model using R
 - Building smarter predictive models including **XGBoost**
 
-## [Build an Image Classifier for Plant Species Identification](https://github.com/shejz/Machine-Learning-Projects/tree/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification)
-[Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification.ipynb)
+## [Build an Image Classifier for Plant Species Identification](https://github.com/shejz/Machine-Learning-Projects/tree/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification.ipynb)
 
 In this machine learning project, we will use binary leaf images and extracted features, including shape, margin, and texture to accurately identify plant species using different benchmark classification techniques.
 
