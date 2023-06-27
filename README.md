@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 Solved end-to-end machine learning projects
 
-## [All State Insurance Claims Severity Prediction](https://github.com/shejz/Machine-Learning-Projects/tree/master/All%20State%20Insurance%20Claims%20Severity%20Prediction) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/All%20State%20Insurance%20Claims%20Severity%20Prediction/All%20State%20Insurance%20Claims%20Severity%20Prediction.ipynb)
+## [All State Insurance Claims Severity Prediction](https://github.com/shejz/Machine-Learning-Projects/tree/master/All%20State%20Insurance%20Claims%20Severity%20Prediction) [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/All%20State%20Insurance%20Claims%20Severity%20Prediction/All%20State%20Insurance%20Claims%20Severity%20Prediction.ipynb)
 
 In this data science project, you will develop automated methods for predicting the cost, and severity of insurance claims.
 
@@ -15,7 +15,7 @@ When you've been devastated by a serious car accident, your focus is on the thin
 - Implementation of the model using R
 - Building smarter predictive models including **XGBoost**
 
-## [Build an Image Classifier for Plant Species Identification](https://github.com/shejz/Machine-Learning-Projects/tree/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification.ipynb)
+## [Build an Image Classifier for Plant Species Identification](https://github.com/shejz/Machine-Learning-Projects/tree/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification/Build%20an%20Image%20Classifier%20for%20Plant%20Species%20Identification.ipynb)
 
 In this machine learning project, we will use binary leaf images and extracted features, including shape, margin, and texture to accurately identify plant species using different benchmark classification techniques.
 
@@ -30,7 +30,7 @@ The objective of this machine learning project is to use binary leaf images and 
 - Prediction
 
 
-## [Choosing the right Time Series Forecasting Methods](https://github.com/shejz/Machine-Learning-Projects/tree/master/Choosing%20the%20right%20Time%20Series%20Forecasting%20Methods)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Choosing%20the%20right%20Time%20Series%20Forecasting%20Methods/Time-Series-Forecasting.ipynb)
+## [Choosing the right Time Series Forecasting Methods](https://github.com/shejz/Machine-Learning-Projects/tree/master/Choosing%20the%20right%20Time%20Series%20Forecasting%20Methods)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Choosing%20the%20right%20Time%20Series%20Forecasting%20Methods/Time-Series-Forecasting.ipynb)
 
 There are different time series forecasting methods to forecast stock price, demand etc. In this machine learning project, you will learn to determine which forecasting method to be used when and how to apply with time series forecasting example.
 
@@ -44,7 +44,7 @@ In this machine learning project, we will be taking open source datasets that ar
 - Application of the models using R or Python
 - Making conclusions
 
-## [Credit Card Fraud Detection as a Classification Problem](https://github.com/shejz/Machine-Learning-Projects/tree/master/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem.ipynb) 
+## [Credit Card Fraud Detection as a Classification Problem](https://github.com/shejz/Machine-Learning-Projects/tree/master/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem/Credit%20Card%20Fraud%20Detection%20as%20a%20Classification%20Problem.ipynb) 
 In this data science project, we will predict the credit card fraud in the transactional dataset using some of the predictive models.
 
 - Handle imbalance data
@@ -70,7 +70,7 @@ The weekly sales transaction dataset consists of weekly purchased quantities of 
 - Model Based clustering
 - Comparison of clustering
 
-## [Instacart Market Basket Analysis](https://github.com/shejz/Machine-Learning-Projects/tree/master/Instacart%20Market%20Basket%20Analysis)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Instacart%20Market%20Basket%20Analysis/Instacart%20Market%20Basket%20Analysis.ipynb) 
+## [Instacart Market Basket Analysis](https://github.com/shejz/Machine-Learning-Projects/tree/master/Instacart%20Market%20Basket%20Analysis)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Instacart%20Market%20Basket%20Analysis/Instacart%20Market%20Basket%20Analysis.ipynb) 
 Build a recommendation engine which will predict the products to be purchased by an Instacart consumer again.
 
 - Read data from large size files
@@ -87,7 +87,7 @@ Instacart’s data science team plays a big part in providing this delightful sh
 
 In this data science project, we are going to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user's next order.
 
-## [Music Recommendation System Project using Python and R](https://github.com/shejz/Machine-Learning-Projects/tree/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R/Perform%20EDA%20and%20build%20Music%20Recommendation%20Engine.ipynb)
+## [Music Recommendation System Project using Python and R](https://github.com/shejz/Machine-Learning-Projects/tree/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Music%20Recommendation%20System%20Project%20using%20Python%20and%20R/Perform%20EDA%20and%20build%20Music%20Recommendation%20Engine.ipynb)
 Work with KKBOX's Music Recommendation System dataset to build the best music recommendation engine.
 
 **Description**:
@@ -106,7 +106,7 @@ The train and the test data are selected from users listening history in a given
 - Solve this use case using Python and R
 - Finding Parameter Tuning for better Algorithm
 
-## [Perform Time series modelling using Facebook Prophet](https://github.com/shejz/Machine-Learning-Projects/tree/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet/Benchmarking%20ARIMA%20vs%20Prophet%20vs%20Keras.ipynb) 
+## [Perform Time series modelling using Facebook Prophet](https://github.com/shejz/Machine-Learning-Projects/tree/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Perform%20Time%20series%20modelling%20using%20Facebook%20Prophet/Benchmarking%20ARIMA%20vs%20Prophet%20vs%20Keras.ipynb) 
 In this project, we are going to talk about Time Series Forecasting to predict the electricity requirement for a particular house using Prophet.
 
 **Description**:
@@ -119,14 +119,14 @@ There are various methods to perform time series forecasting. Traditionally peop
 - Knowing advantages of Prophet
 - Using Bayesian Method of forecasting
 
-## [Predict Big Mart Sale](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20BigMart%20Sales)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20BigMart%20Sales/Predict%20Big%20Mart%20Sales.ipynb)
+## [Predict Big Mart Sale](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20BigMart%20Sales)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20BigMart%20Sales/Predict%20Big%20Mart%20Sales.ipynb)
 The aim of this project is to build a predictive model, and use historical data to predict sales for each particular product in different stores.
 
 Given sales data for 1559 products across 10 stores of the Big Mart chain in various cities. I will try to understand the properties of products and stores which play a key role in increasing sales.
 
 The train and test data, can be found at the Analytics Vidya’s [Big Mart Sales Prediction Challenge](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
 
-## [Predict Churn for a Telecom company using Logistic Regression](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression.ipynb)
+## [Predict Churn for a Telecom company using Logistic Regression](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression/Predict%20Churn%20for%20a%20Telecom%20company%20using%20Logistic%20Regression.ipynb)
 Predict the customer churn of telecom sector and find out the key drivers that lead to churn. Learn how the logistic regression model using R can be used to identify the customer churn in telecom dataset.
 
 **Description**:
@@ -139,14 +139,14 @@ Customer churn refers to a decision made by the customer about ending the busine
 - How to retain customers
 - Apply multiple classification models
 
-## [Predict Credit Default | Give Me Some Credit Kaggle](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit/Credit_Score_Solution.ipynb)
+## [Predict Credit Default | Give Me Some Credit Kaggle](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Credit%20Default%20%20Give%20Me%20Some%20Credit/Credit_Score_Solution.ipynb)
 In this data science project, you will predict borrowers chance of defaulting on credit loans by building a credit score prediction model.
 
 **Description**:
 
 Banks often depend on credit score prediction models to approve or deny a loan request. A good prediction model is necessary for a bank so that they can provide maximum credit without exceeding the risk threshold. This data science project uses credit score dataset which has fairly large volume of data (250K). The predictive models will be build following various approaches - random forests, graident boosting and logistic regression. At the end of the project you will build a predictive model that will automatically score each applicant with a credit score which is human readable and easy to interpret.
 
-## [Predict Employee Computer Access Needs in Python](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Employee%20Computer%20Access%20Needs)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Employee%20Computer%20Access%20Needs/Solution_File_in_Python.ipynb)
+## [Predict Employee Computer Access Needs in Python](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Employee%20Computer%20Access%20Needs)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Employee%20Computer%20Access%20Needs/Solution_File_in_Python.ipynb)
 Given his or her job role, predict employee access needs using amazon employee database.
 
 **Description**:
@@ -156,7 +156,7 @@ When an employee at any company starts work, they first need to obtain the compu
 There is a considerable amount of data regarding an employee’s role within an organization and the resources to which they have access. Given the data related to current employees and their provisioned access, models can be built that automatically determine access privileges as employees enter and leave roles within a company. In this data science project, we will build an auto-access model that minimizes the human involvement required to grant or revoke employee access.
 
 
-## [Predict Macro Economic Trends using Kaggle Financial Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Macro%20Economic%20Trends)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Macro%20Economic%20Trends/Predict%20Macro%20Economic%20Trends.ipynb)
+## [Predict Macro Economic Trends using Kaggle Financial Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predict%20Macro%20Economic%20Trends)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predict%20Macro%20Economic%20Trends/Predict%20Macro%20Economic%20Trends.ipynb)
 In this machine learning project, you will uncover the predictive value in an uncertain world by using various artificial intelligence, machine learning, advanced regression and feature transformation techniques.
 
 **Description**:
@@ -173,12 +173,12 @@ Two Sigma is excited to find predictive value and gain a better understanding of
 - Application of XGBoost model
 - Interpretation of models
 
-## [Prediction of Flower Species](https://github.com/shejz/Machine-Learning-Projects/tree/master/Prediction%20of%20Flower%20Species)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Prediction%20of%20Flower%20Species/Prediction%20of%20Flower%20Species.ipynb)
+## [Prediction of Flower Species](https://github.com/shejz/Machine-Learning-Projects/tree/master/Prediction%20of%20Flower%20Species)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Prediction%20of%20Flower%20Species/Prediction%20of%20Flower%20Species.ipynb)
 The Iris dataset is a classic dataset from the 1930s; it is one of the first modern examples of statistical classification.
 
 The dataset is a collection of morphological measurements of several Iris flowers. These measurements will enable us to distinguish multiple species of the flowers. Today, species are identified by their DNA fingerprints, but in the 1930s, DNA's role in genetics had not yet been discovered.
 
-## [Predictive Models in IoT - Energy Prediction Use Case](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case.ipynb) 
+## [Predictive Models in IoT - Energy Prediction Use Case](https://github.com/shejz/Machine-Learning-Projects/tree/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case/Predictive%20Models%20in%20IoT%20-%20Energy%20Prediction%20Use%20Case.ipynb) 
 In this machine learning and IoT project, we are going to test out the experimental data using various predictive models and train the models and break the energy usage.
 
 - Multiple linear regression,
@@ -190,7 +190,7 @@ In this machine learning and IoT project, we are going to test out the experimen
 
 This IoT project presents and discusses data-driven predictive models for the energy use of appliances. Data used include measurements of temperature and humidity sensors from a wireless network, whether from a nearby airport station and recorded energy use of lighting fixtures. The machine learning project discusses data filtering to remove non-predictive parameters and feature ranking. The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru) and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non-predictive attributes (parameters). 
 
-## [Zillow's Home Value Prediction (Zestimate)](https://github.com/shejz/Machine-Learning-Projects/tree/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20(Zestimate))[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20%28Zestimate%29/Solutions_file.ipynb) 
+## [Zillow's Home Value Prediction (Zestimate)](https://github.com/shejz/Machine-Learning-Projects/tree/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20(Zestimate))[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Zillow%E2%80%99s%20Home%20Value%20Prediction%20%28Zestimate%29/Solutions_file.ipynb) 
 Build a machine learning algorithm to predict the future sale prices of homes.
 
 - Problem statement analysis
@@ -207,9 +207,9 @@ and it is recorded in the transactions file train.csv. In this project, you are 
 
 In this data science project, we will develop a machine learning algorithm that makes predictions about the future sale prices of homes. We will also build a model to improve the Zestimate residual error. And finally, we'll build a home valuation algorithm from the ground up, using external data sources.
 
-## [Regression on Boston Housing Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Regression%20on%20Boston%20Housing%20Dataset)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Regression%20on%20Boston%20Housing%20Dataset/Regression%20on%20Boston%20Housing%20Dataset.ipynb)
+## [Regression on Boston Housing Dataset](https://github.com/shejz/Machine-Learning-Projects/tree/master/Regression%20on%20Boston%20Housing%20Dataset)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Regression%20on%20Boston%20Housing%20Dataset/Regression%20on%20Boston%20Housing%20Dataset.ipynb)
 
-## [Titanic EDA](https://github.com/shejz/Machine-Learning-Projects/tree/master/Titanic%20Survival%20Prediction)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Titanic%20Survival%20Prediction/EDA.ipynb)
+## [Titanic EDA](https://github.com/shejz/Machine-Learning-Projects/tree/master/Titanic%20Survival%20Prediction)[![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Machine-Learning-Projects/blob/master/Titanic%20Survival%20Prediction/EDA.ipynb)
 
 ## [Solving Multiple Classification use cases Using H2O](https://github.com/shejz/Machine-Learning-Projects/tree/master/Solving%20Multiple%20Classification%20use%20cases%20Using%20H2O)
 In this project, we are going to talk about H2O and functionality in terms of building Machine Learning models.
